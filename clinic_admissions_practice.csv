@@ -1,0 +1,304 @@
+patient_id,age,sex,height_cm,weight_kg,systolic_bp,cholesterol_mmol,smoker,region,condition,admission_year,admission_month,length_of_stay_days
+1001,44,Male,173.0,47.1,,4.87,Yes,London,COPD,2022,6,6.0
+1002,77,femlae,171.7,57.0,142.0,,Yes,North East,COPD,2022,4,3.0
+1003,18,Female,154.7,55.6,129.0,3.95,Yes,South West,Asthma,2019,12,2.0
+1004,82,Male,176.1,75.9,156.0,5.0,Yes,Midlands,COPD,2019,9,5.0
+1005,57,Male,185.3,86.4,131.0,,No,North West,Diabetes,2022,3,4.0
+1006,28,Female,152.1,62.9,127.0,3.73,No,Midlands,Hypertension,2018,12,8.0
+1007,39,Male,173.3,76.9,144.0,4.34,No,North East,Hypertension,2020,1,1.0
+1008,57,Female,159.5,80.7,153.0,,Yes,South East,Hypertension,2023,8,6.0
+1009,40,Male,177.1,75.1,,4.83,No,South West,Hypertension,2022,3,5.0
+1010,25,Male,172.4,68.7,108.0,3.64,Yes,North West,Diabetes,2022,8,6.0
+1011,65,Female,163.4,77.8,152.0,5.35,No,South West,Heart disease,2018,5,2.0
+1012,66,Female,151.4,46.0,127.0,4.03,Yes,North West,Heart disease,2019,6,13.0
+1013,26,Female,165.1,78.4,105.0,4.06,No,North West,Asthma,2019,9,5.0
+1014,38,Female,158.5,69.0,119.0,4.14,No,N/A,Hypertension,2019,10,3.0
+1015,35,Female,169.6,75.8,127.0,,No,London,Heart disease,2019,5,1.0
+1016,65,Female,158.2,85.5,136.0,5.08,No,North East,Diabetes,2023,12,3.0
+1017,70,Female,158.2,60.6,133.0,4.75,No,South East,Hypertension,2018,6,7.0
+1018,70,male,167.6,612.0,133.0,5.25,No,London,Hypertension,2022,2,10.0
+1019,85,Female,166.6,72.1,140.0,3.57,No,South West,Diabetes,2021,1,4.0
+1020,73,Male,184.1,72.0,133.0,4.9,No,North West,Hypertension,2021,3,11.0
+1021,41,Female,151.9,63.0,148.0,6.01,No,North West,Heart disease,2019,9,2.0
+1022,25,Male,187.1,77.6,120.0,4.54,No,N/A,Heart disease,2019,7,5.0
+1023,62,Male,183.2,79.3,145.0,4.87,,North West,Asthma,2021,5,5.0
+1024,83,Female,163.4,76.9,142.0,5.41,No,South East,Hypertension,2019,6,6.0
+1025,88,Female,153.5,69.5,147.0,5.71,No,South West,Heart disease,2022,11,4.0
+1026,34,Female,164.7,65.6,115.0,3.14,No,North East,Asthma,2018,7,5.0
+1027,35,Male,180.8,102.8,96.0,3.37,No,London,Hypertension,2018,1,2.0
+1028,20,Female,154.3,76.7,101.0,4.55,No,South West,Asthma,2022,1,9.0
+1029,28,Female,166.3,92.5,101.0,3.98,No,North East,Diabetes,2021,6,7.0
+1030,57,Male,170.1,85.0,111.0,5.69,No,North East,Diabetes,2018,5,5.0
+1031,57,Male,181.9,109.6,122.0,,No,London,Hypertension,2023,11,7.0
+1032,44,Male,166.8,51.6,140.0,,No,North West,Asthma,2018,7,9.0
+1033,40,Male,180.5,83.3,125.0,3.71,No,South West,Hypertension,2023,10,6.0
+1034,77,Female,162.2,,156.0,3.05,No,South West,Hypertension,2022,8,14.0
+1035,51,Female,163.6,73.7,135.0,4.55,Yes,South East,Hypertension,2023,5,6.0
+1036,76,Male,180.3,79.4,151.0,4.83,No,Midlands,COPD,2023,8,2.0
+1037,87,Female,164.8,71.3,139.0,4.77,No,South West,Hypertension,2019,8,5.0
+1038,40,Female,158.8,89.4,130.0,5.36,No,South West,Diabetes,2022,9,7.0
+1039,32,Male,164.0,70.6,128.0,5.36,No,North West,Diabetes,2019,3,9.0
+1040,86,Female,170.2,83.6,142.0,4.94,No,North West,COPD,2020,8,4.0
+1041,63,Male,166.8,72.2,142.0,3.34,No,North West,Asthma,2019,4,2.0
+1042,38,Female,147.5,59.5,130.0,5.01,No,North West,COPD,2020,10,3.0
+1043,62,femlae,171.7,79.7,131.0,5.21,No,North West,Hypertension,2023,10,1.0
+1044,55,Male,179.5,93.5,121.0,4.97,No,Midlands,Hypertension,2020,8,7.0
+1045,83,Male,170.1,93.3,135.0,,No,Midlands,Asthma,2018,12,3.0
+1046,36,Female,150.4,77.8,124.0,3.74,No,N/A,Diabetes,2019,7,2.0
+1047,89,Male,175.2,87.2,153.0,6.5,No,London,Heart disease,2022,1,7.0
+1048,85,Female,160.3,,140.0,4.38,No,South West,Heart disease,2021,8,11.0
+1049,31,Female,160.9,56.5,121.0,5.03,No,North West,Diabetes,2021,10,2.0
+1050,29,Female,155.3,64.2,125.0,3.31,No,South East,COPD,2020,2,4.0
+1051,56,Female,165.5,85.5,139.0,4.11,No,North East,Asthma,2019,2,3.0
+1052,21,Male,179.3,99.3,131.0,5.47,No,London,Hypertension,2021,4,10.0
+1053,39,Male,159.0,70.7,137.0,4.41,No,North East,Diabetes,2021,11,4.0
+1054,,Male,177.1,97.2,119.0,5.28,Yes,South West,Hypertension,2023,7,2.0
+1055,87,Male,175.5,90.0,165.0,5.24,Yes,Midlands,Heart disease,2021,12,4.0
+1056,89,Male,177.9,102.5,144.0,5.02,No,London,Hypertension,2023,11,8.0
+1057,28,Female,160.0,72.5,129.0,5.43,No,London,Diabetes,2022,7,3.0
+1058,82,Male,160.6,65.5,147.0,4.85,No,South East,Asthma,2018,9,2.0
+1059,24,Female,165.7,78.3,113.0,3.19,No,North East,Hypertension,2020,4,3.0
+1060,71,Female,151.6,31.7,122.0,4.35,No,London,Hypertension,2020,2,2.0
+1061,78,Female,163.0,76.3,142.0,5.37,Yes,North East,Asthma,2018,5,3.0
+1062,82,Female,159.7,27.0,130.0,5.3,No,London,Hypertension,2019,8,2.0
+1063,34,Male,177.6,60.7,132.0,3.44,Yes,South West,Diabetes,2022,3,16.0
+1064,82,Female,161.0,75.3,161.0,4.51,No,North East,Diabetes,2020,3,1.0
+1065,26,Male,171.0,85.2,110.0,4.05,No,South East,Hypertension,2018,1,2.0
+1066,55,Male,180.7,71.1,136.0,4.49,Yes,South East,Hypertension,2019,9,2.0
+1067,,Female,165.5,65.2,123.0,3.75,Yes,North East,Heart disease,2019,11,2.0
+1068,40,Male,176.6,103.4,119.0,4.16,No,North East,COPD,2019,10,5.0
+1069,19,male,176.6,77.4,122.0,3.88,Yes,North East,Hypertension,2018,5,2.0
+1070,73,Male,176.9,116.1,141.0,5.47,No,London,COPD,2022,8,1.0
+1071,42,F,169.3,77.4,143.0,5.19,Yes,North West,Asthma,2022,12,4.0
+1072,65,Male,174.0,,133.0,4.75,No,South East,Asthma,2020,8,3.0
+1073,47,Male,173.9,103.7,138.0,4.4,No,North West,Heart disease,2021,4,2.0
+1074,44,Male,177.7,87.1,128.0,4.74,No,Midlands,Heart disease,2023,5,9.0
+1075,81,Female,156.6,55.2,153.0,4.44,Yes,South West,Heart disease,2023,9,5.0
+1076,24,Male,167.6,74.5,113.0,3.64,No,London,Diabetes,2018,6,5.0
+1077,71,Male,174.1,81.4,140.0,4.25,No,London,Asthma,2023,11,5.0
+1078,71,Male,185.4,71.7,139.0,4.47,Yes,South East,Diabetes,2018,11,5.0
+1079,45,Female,152.3,60.0,119.0,3.84,Yes,London,Hypertension,2018,1,3.0
+1080,36,F,164.9,64.3,130.0,4.67,No,Midlands,Asthma,2020,9,2.0
+1081,18,Female,158.9,78.7,121.0,4.89,No,South West,Hypertension,2022,5,4.0
+1082,85,Male,180.9,88.9,153.0,3.94,Yes,South West,Hypertension,2018,7,3.0
+1083,86,Male,175.1,78.9,163.0,5.08,Yes,North West,Hypertension,2019,4,1.0
+1084,35,Female,163.6,71.0,-999,4.4,No,London,Hypertension,2019,5,1.0
+1085,20,Female,157.7,,111.0,4.64,No,Midlands,Asthma,2020,4,3.0
+1086,26,F,154.1,70.7,122.0,4.45,No,Midlands,Asthma,2023,1,7.0
+1087,22,male,178.9,72.0,110.0,3.4,No,Midlands,Diabetes,2019,10,4.0
+1088,77,Male,191.3,81.7,144.0,4.09,No,London,Hypertension,2019,2,2.0
+1089,199,Female,176.3,99.4,140.0,5.04,No,London,Diabetes,2018,5,1.0
+1090,29,Female,164.5,68.0,136.0,5.21,No,North West,Diabetes,2019,3,8.0
+1091,71,Male,186.2,71.5,144.0,3.36,No,North East,Heart disease,2018,2,3.0
+1092,,F,161.0,75.2,118.0,4.74,No,South East,Asthma,2021,5,1.0
+1093,44,Female,166.9,81.0,139.0,5.47,Yes,North West,Diabetes,2020,12,3.0
+1094,61,Male,184.2,68.2,114.0,4.7,No,North East,Diabetes,2020,12,6.0
+1095,69,Female,169.5,80.5,119.0,5.28,No,South West,COPD,2022,5,1.0
+1096,80,Male,166.2,83.7,153.0,4.51,Yes,North West,Heart disease,2021,7,4.0
+1097,21,Male,163.8,77.0,-999,4.33,No,London,Diabetes,2018,12,4.0
+1098,32,male,159.1,75.5,124.0,3.39,No,North East,Diabetes,2020,3,1.0
+1099,38,Female,166.7,57.5,111.0,2.94,No,Midlands,Hypertension,2019,12,9.0
+1100,40,Male,178.7,91.0,125.0,5.26,No,North East,COPD,2022,2,4.0
+1101,89,Female,159.2,65.0,170.0,4.4,No,South West,Diabetes,2019,3,3.0
+1102,73,Male,165.1,67.7,150.0,4.61,No,South West,Hypertension,2018,5,3.0
+1103,41,Female,163.9,83.1,127.0,3.64,Yes,North East,COPD,2022,1,1.0
+1104,87,Male,175.4,103.5,144.0,4.08,No,Midlands,Heart disease,2020,10,1.0
+1105,53,Female,167.7,98.6,128.0,4.61,No,Midlands,Hypertension,2018,11,3.0
+1106,54,Female,148.5,72.6,111.0,4.23,No,South East,Hypertension,2022,5,3.0
+1107,49,Female,157.0,65.3,132.0,4.95,Yes,South East,Hypertension,2019,11,3.0
+1108,28,Female,157.3,70.7,127.0,,No,North West,Asthma,2023,10,9.0
+1109,85,Male,180.3,99.0,132.0,5.27,No,South East,Hypertension,2022,10,6.0
+1110,19,Female,156.2,67.2,,,No,Midlands,COPD,2020,10,1.0
+1111,30,Male,178.7,88.1,108.0,5.6,Yes,South East,COPD,2021,7,8.0
+1112,34,Female,160.8,79.4,112.0,3.79,No,South East,Asthma,2021,2,2.0
+1113,38,Female,168.7,76.1,125.0,4.54,No,South West,Asthma,2021,12,6.0
+1114,27,male,176.4,73.8,98.0,5.26,Yes,North East,Hypertension,2018,8,3.0
+1115,19,Female,155.8,61.0,121.0,5.28,No,North East,Hypertension,2019,11,4.0
+1116,66,Female,161.7,78.1,146.0,3.86,Yes,South West,Heart disease,2019,12,1.0
+1117,87,Male,178.6,86.2,-999,4.85,No,London,Hypertension,2022,3,5.0
+1118,26,Male,173.1,85.5,93.0,5.41,No,Midlands,Hypertension,2018,5,7.0
+1119,39,Male,174.2,91.1,115.0,4.95,Yes,London,Diabetes,2021,3,1.0
+1120,54,Male,180.8,82.7,144.0,4.88,No,North West,Hypertension,2022,1,7.0
+1121,84,Male,161.0,78.8,119.0,4.89,No,South East,Diabetes,2023,12,2.0
+1122,67,Female,165.9,79.0,135.0,4.6,No,South West,Heart disease,2019,12,11.0
+1123,73,Female,161.9,56.2,130.0,5.13,No,London,Heart disease,2018,12,6.0
+1124,59,Male,158.7,84.3,143.0,,No,Midlands,Asthma,2022,11,6.0
+1125,48,Female,155.8,60.1,122.0,4.65,Yes,South East,Heart disease,2018,8,3.0
+1126,32,Female,161.9,51.2,125.0,4.58,,North West,Diabetes,2018,7,17.0
+1127,80,Male,173.0,66.7,,4.53,No,South West,Heart disease,2023,12,3.0
+1128,75,Female,154.7,53.6,161.0,5.32,No,South West,Asthma,2023,7,1.0
+1129,19,Female,152.6,63.4,112.0,6.43,No,Midlands,Hypertension,2022,8,2.0
+1130,69,Female,166.1,71.1,143.0,3.65,No,Midlands,COPD,2023,3,8.0
+1131,24,F,159.9,65.2,102.0,4.67,Yes,South East,Hypertension,2018,9,4.0
+1132,71,male,155.9,72.4,-999,4.38,No,South East,Hypertension,2018,10,4.0
+1133,77,Male,175.6,88.0,136.0,5.37,Yes,South West,Hypertension,2019,9,3.0
+1134,27,Female,168.8,81.0,113.0,4.5,No,Midlands,Diabetes,2018,6,3.0
+1135,49,Female,148.3,63.4,129.0,5.22,No,London,Diabetes,2023,3,2.0
+1136,26,Male,164.6,80.7,102.0,5.28,No,South West,Asthma,2018,1,6.0
+1137,58,Female,156.5,,136.0,4.91,No,London,COPD,2021,8,3.0
+1138,84,Male,172.5,75.5,157.0,5.83,No,North East,Hypertension,2023,9,2.0
+1139,23,Male,180.6,56.1,,2.79,No,South East,Asthma,2022,10,7.0
+1140,46,Male,187.0,95.0,112.0,5.77,No,North East,Diabetes,2019,12,2.0
+1141,88,Female,155.2,65.0,148.0,5.34,No,South East,Heart disease,2020,6,4.0
+1142,39,Male,177.7,100.1,132.0,,Yes,South East,Hypertension,2021,10,1.0
+1143,27,Male,167.7,91.0,100.0,,Yes,South East,Hypertension,2022,9,1.0
+1144,53,Male,178.3,88.7,121.0,,No,South East,Asthma,2020,4,3.0
+1145,54,Female,165.3,67.6,141.0,,,South West,Asthma,2019,11,2.0
+1146,65,Female,160.9,75.6,,4.84,No,Midlands,Heart disease,2022,1,2.0
+1147,40,Male,181.5,81.1,129.0,4.8,Yes,London,Asthma,2023,8,6.0
+1148,86,Male,170.8,78.7,167.0,,No,North West,Heart disease,2020,12,7.0
+1149,55,Female,166.7,87.4,137.0,3.51,No,London,Diabetes,2018,8,5.0
+1150,38,femlae,167.5,68.7,131.0,5.26,,London,Hypertension,2021,12,1.0
+1151,87,Female,152.3,71.0,176.0,5.08,,London,Hypertension,2023,1,3.0
+1152,84,Male,178.0,95.2,145.0,4.9,,South West,Hypertension,2023,7,12.0
+1153,53,Female,168.0,64.1,124.0,3.7,No,North West,Diabetes,2020,10,16.0
+1154,19,Male,177.3,98.7,119.0,4.74,No,South West,Diabetes,2018,8,7.0
+1155,60,Male,177.5,95.0,139.0,3.11,,North West,Diabetes,2021,11,2.0
+1156,57,Female,150.8,62.4,128.0,5.22,,North East,Asthma,2022,6,3.0
+1157,28,Male,172.6,70.2,109.0,3.44,Yes,North West,Diabetes,2023,9,4.0
+1158,63,Female,167.6,65.0,160.0,4.87,Yes,London,Asthma,2018,6,4.0
+1159,78,Female,172.8,73.4,147.0,4.9,No,South East,Asthma,2019,11,8.0
+1160,25,Female,165.1,80.3,110.0,5.27,No,North East,Diabetes,2020,2,6.0
+1161,70,Female,159.8,58.0,149.0,4.77,Yes,South East,Diabetes,2018,4,1.0
+1162,28,Female,156.6,71.0,118.0,3.99,No,London,Asthma,2023,2,2.0
+1163,71,Male,174.1,64.9,,4.56,No,North West,Asthma,2018,9,7.0
+1164,48,Male,177.4,82.1,135.0,5.57,No,North East,Diabetes,2021,3,9.0
+1165,18,Male,188.7,97.9,101.0,4.76,No,North East,Diabetes,2023,4,4.0
+1166,87,Female,174.3,,,4.8,No,South West,Asthma,2022,11,10.0
+1167,,Male,175.5,64.1,139.0,,No,North East,Asthma,2022,5,4.0
+1168,60,Male,176.1,104.3,140.0,3.7,No,South West,Hypertension,2019,2,2.0
+1169,31,Male,182.5,92.2,117.0,,No,Midlands,Diabetes,2022,1,6.0
+1170,85,Male,169.1,82.5,142.0,3.82,No,North East,COPD,2020,3,21.0
+1171,71,Male,177.3,86.5,136.0,5.44,No,Midlands,Hypertension,2018,11,1.0
+1172,75,Male,174.8,88.6,140.0,5.04,Yes,North East,Heart disease,2020,7,10.0
+1173,49,Female,169.5,75.6,126.0,6.36,No,London,Hypertension,2020,12,6.0
+1174,51,Female,165.8,92.2,140.0,3.94,No,South East,Asthma,2021,3,2.0
+1175,63,Female,166.4,69.1,119.0,4.76,Yes,South East,Diabetes,2019,5,1.0
+1176,74,Male,160.5,82.7,,6.2,Yes,London,Hypertension,2020,2,1.0
+1177,78,Female,164.0,64.8,140.0,5.81,No,North West,COPD,2020,5,2.0
+1178,19,Male,171.8,78.9,118.0,3.9,Yes,London,Diabetes,2019,7,5.0
+1179,65,Female,162.5,58.6,-999,5.01,No,North West,COPD,2022,10,7.0
+1180,25,Female,158.7,73.2,131.0,4.45,Yes,London,Hypertension,2019,5,8.0
+1181,38,Female,154.3,79.8,136.0,4.78,,South East,Heart disease,2022,10,5.0
+1182,77,Male,168.3,75.5,,4.48,No,South East,COPD,2019,8,4.0
+1183,36,Male,177.4,82.2,108.0,4.5,,Midlands,Asthma,2023,4,3.0
+1184,75,Female,170.2,63.7,151.0,3.83,No,North East,Hypertension,2020,11,5.0
+1185,51,Male,173.0,77.7,135.0,4.8,Yes,North East,Asthma,2018,6,2.0
+1186,34,Male,176.3,61.6,,4.86,No,South East,Asthma,2018,2,1.0
+1187,42,Male,179.3,73.6,126.0,4.46,No,London,COPD,2022,12,4.0
+1188,56,Male,172.6,83.5,137.0,3.63,No,N/A,Diabetes,2023,11,6.0
+1189,73,Male,182.4,109.6,147.0,5.62,Yes,Midlands,Hypertension,2019,1,1.0
+1190,61,Male,167.0,110.6,137.0,5.07,Yes,South West,Hypertension,2021,11,2.0
+1191,85,Female,162.4,64.2,150.0,4.54,No,Midlands,Asthma,2021,12,4.0
+1192,80,Female,154.2,79.6,160.0,4.8,No,South West,COPD,2018,10,4.0
+1193,72,Female,161.7,,153.0,3.87,No,South West,Hypertension,2020,4,5.0
+1194,61,Male,185.0,90.1,107.0,4.09,No,Midlands,Heart disease,2022,8,12.0
+1195,38,Female,172.8,86.4,121.0,,No,South West,COPD,2023,7,1.0
+1196,47,Male,179.1,87.5,127.0,5.53,No,London,Hypertension,2023,8,12.0
+1197,26,Male,174.6,83.8,100.0,4.01,No,Midlands,Hypertension,2018,8,12.0
+1198,44,Male,173.8,76.0,128.0,5.09,Yes,Midlands,Asthma,2019,8,7.0
+1199,84,Male,169.5,59.5,159.0,4.66,No,London,Asthma,2020,7,4.0
+1200,48,Female,160.8,51.9,118.0,4.85,No,South West,Hypertension,2018,9,2.0
+1201,26,Male,169.0,85.5,121.0,4.36,No,North West,Heart disease,2021,7,7.0
+1202,64,Female,161.1,66.8,128.0,5.45,Yes,North East,Asthma,2018,1,5.0
+1203,87,Male,182.6,81.1,142.0,4.7,No,North East,COPD,2018,1,3.0
+1204,80,F,154.5,64.5,,3.9,No,North West,Heart disease,2018,12,7.0
+1205,37,Male,173.0,91.5,118.0,3.6,Yes,London,Heart disease,2019,11,8.0
+1206,50,Male,178.2,88.3,135.0,4.33,No,North East,Asthma,2022,8,9.0
+1207,56,Female,151.3,55.0,114.0,3.89,No,London,Hypertension,2019,3,2.0
+1208,35,Female,161.3,84.6,141.0,4.84,No,South West,Asthma,2023,10,9.0
+1209,37,Male,162.2,89.7,,,No,North East,Hypertension,2019,2,3.0
+1210,35,Female,168.4,82.9,121.0,6.21,No,South East,Asthma,2018,5,4.0
+1211,89,Male,161.1,81.4,155.0,3.87,No,North East,Hypertension,2020,4,5.0
+1212,71,Female,162.2,85.7,126.0,5.05,,London,Asthma,2022,1,8.0
+1213,78,Female,156.9,79.0,156.0,4.19,Yes,North East,Hypertension,2018,10,6.0
+1214,76,Male,181.3,97.8,140.0,4.61,No,Midlands,Hypertension,2018,7,3.0
+1215,87,Female,164.1,80.0,146.0,5.17,No,N/A,Hypertension,2023,4,1.0
+1216,25,Male,164.5,79.4,113.0,2.82,Yes,South East,Asthma,2021,7,5.0
+1217,81,Male,154.2,52.5,140.0,5.18,No,North East,Heart disease,2020,1,4.0
+1218,22,male,171.2,88.4,,5.75,No,South West,Hypertension,2022,6,1.0
+1219,52,Male,191.9,77.0,134.0,4.4,Yes,London,Heart disease,2023,7,5.0
+1220,60,Female,154.5,55.9,142.0,4.98,No,N/A,Heart disease,2020,5,4.0
+1221,43,Male,171.1,96.2,126.0,,No,Midlands,Diabetes,2021,10,9.0
+1222,28,Male,178.3,97.9,124.0,4.37,No,South East,Asthma,2018,3,13.0
+1223,31,Female,160.8,87.1,116.0,4.1,No,Midlands,Diabetes,2019,2,7.0
+1224,77,Male,172.9,77.1,166.0,3.38,No,London,Hypertension,2021,7,4.0
+1225,40,Female,163.5,58.3,109.0,5.05,No,South East,Asthma,2019,11,4.0
+1226,40,Male,174.4,78.8,138.0,,Yes,South East,Hypertension,2023,5,2.0
+1227,84,Female,158.2,68.7,161.0,4.33,Yes,North West,Heart disease,2023,1,2.0
+1228,28,male,163.9,73.5,110.0,4.57,No,South East,COPD,2019,12,3.0
+1229,,Female,159.6,81.8,169.0,4.62,No,N/A,Heart disease,2020,6,3.0
+1230,84,femlae,170.2,73.5,157.0,4.67,No,Midlands,Asthma,2019,3,1.0
+1231,61,Male,181.3,94.0,145.0,5.23,Yes,South East,Asthma,2021,8,9.0
+1232,29,Female,155.2,54.3,120.0,3.55,No,London,COPD,2018,4,10.0
+1233,29,Male,168.2,82.1,117.0,5.22,No,South East,Hypertension,2020,12,9.0
+1234,38,Female,170.6,78.6,122.0,3.6,No,London,Hypertension,2021,4,11.0
+1235,59,Male,184.4,80.3,138.0,,No,North West,Asthma,2021,7,16.0
+1236,29,Female,149.3,57.8,134.0,5.84,No,Midlands,Diabetes,2021,7,2.0
+1237,50,Female,150.8,59.5,132.0,5.49,No,North East,Diabetes,2019,3,15.0
+1238,26,male,171.9,76.2,109.0,4.53,No,North West,Hypertension,2022,6,3.0
+1239,56,Male,185.2,119.9,141.0,4.1,No,South West,Asthma,2022,2,6.0
+1240,19,Female,NA,69.1,,4.02,No,London,Hypertension,2022,8,1.0
+1241,69,Male,176.8,81.0,146.0,,No,South East,Hypertension,2020,10,3.0
+1242,21,male,146.0,37.4,123.0,4.44,No,Midlands,Hypertension,2023,12,8.0
+1243,32,Male,172.5,68.4,118.0,4.46,No,South East,Diabetes,2020,4,6.0
+1244,30,Female,171.4,75.8,111.0,,No,North East,Heart disease,2022,4,3.0
+1245,77,Female,155.2,57.6,135.0,4.82,Yes,South East,Diabetes,2019,7,4.0
+1246,21,Male,178.2,105.5,99.0,3.4,No,Midlands,Asthma,2019,9,2.0
+1247,48,Female,157.5,65.1,131.0,4.32,Yes,South West,Heart disease,2021,12,8.0
+1248,,Male,179.5,105.7,134.0,5.44,No,North East,Diabetes,2021,1,10.0
+1249,55,Female,160.0,69.8,128.0,3.79,Yes,North East,Heart disease,2022,3,2.0
+1250,67,Male,183.0,91.0,109.0,4.74,No,North West,Asthma,2019,4,4.0
+1251,75,Male,158.2,66.6,130.0,4.38,Yes,London,Asthma,2023,4,1.0
+1252,46,Male,169.5,,139.0,4.74,No,South West,Hypertension,2019,6,4.0
+1253,77,Male,163.2,92.5,137.0,4.7,No,North West,Hypertension,2021,11,6.0
+1254,40,Male,169.2,47.4,129.0,5.63,No,London,COPD,2023,1,5.0
+1255,88,Female,172.5,53.5,135.0,5.43,No,North East,Heart disease,2021,10,5.0
+1256,54,Male,173.7,74.1,146.0,3.82,No,North West,COPD,2022,8,3.0
+1257,70,Female,162.8,,139.0,5.37,No,Midlands,COPD,2023,8,3.0
+1258,81,Male,173.9,91.0,148.0,4.47,No,North East,Hypertension,2023,9,3.0
+1259,75,F,176.4,90.6,166.0,4.55,No,North West,Heart disease,2020,2,2.0
+1260,79,Female,167.1,70.6,160.0,5.21,No,London,Diabetes,2020,9,3.0
+1261,56,Female,157.8,78.7,130.0,4.42,Yes,South West,Heart disease,2019,3,5.0
+1262,21,Male,179.6,102.0,110.0,5.03,No,South West,Hypertension,2021,7,9.0
+1263,53,Male,177.7,87.9,128.0,4.19,No,London,Hypertension,2023,9,2.0
+1264,31,Female,159.1,79.3,126.0,4.08,Yes,Midlands,Heart disease,2020,8,3.0
+1265,82,Female,167.5,79.2,145.0,4.56,No,South West,Heart disease,2020,4,1.0
+1266,35,Female,162.2,64.4,119.0,4.15,Yes,South West,Asthma,2018,5,2.0
+1267,34,Male,174.4,91.7,137.0,5.31,No,North West,Diabetes,2020,6,3.0
+1268,35,Male,172.9,82.2,121.0,4.99,No,North West,Diabetes,2019,1,4.0
+1269,64,Female,NA,72.6,160.0,,Yes,South West,COPD,2023,9,4.0
+1270,59,Female,164.5,91.0,135.0,6.38,,Midlands,Diabetes,2021,2,4.0
+1271,86,Male,166.3,44.2,166.0,4.34,No,South West,Diabetes,2018,6,5.0
+1272,47,Male,NA,58.8,132.0,4.72,No,North West,Asthma,2018,8,2.0
+1273,38,Male,174.5,65.9,134.0,3.76,No,North East,Diabetes,2023,1,4.0
+1274,21,Female,153.3,59.6,108.0,3.87,No,North East,Asthma,2023,12,6.0
+1275,18,Male,175.4,79.5,,3.94,No,Midlands,Diabetes,2022,5,2.0
+1276,44,Male,169.6,58.2,132.0,3.9,No,Midlands,Heart disease,2018,1,1.0
+1277,84,Male,181.3,74.2,157.0,4.3,Yes,North East,COPD,2018,8,8.0
+1278,55,Female,167.0,64.5,133.0,4.65,No,Midlands,COPD,2019,7,1.0
+1279,82,Male,173.9,115.1,133.0,4.17,No,London,Asthma,2022,8,2.0
+1280,25,Male,170.4,101.9,,5.04,Yes,North West,Diabetes,2022,10,6.0
+1281,24,F,178.8,80.4,103.0,3.8,No,Midlands,Heart disease,2023,6,2.0
+1282,78,Male,176.3,78.8,126.0,,Yes,North East,Heart disease,2018,10,7.0
+1283,25,Female,163.7,58.5,119.0,,No,Midlands,Asthma,2018,5,2.0
+1284,21,Male,174.5,56.1,127.0,4.46,No,North East,Asthma,2023,7,2.0
+1285,47,Male,176.8,82.8,128.0,3.76,Yes,South West,Heart disease,2023,2,1.0
+1286,84,Female,162.4,59.4,124.0,6.23,Yes,South West,Asthma,2022,8,2.0
+1287,67,Male,176.3,82.7,137.0,5.65,No,South West,Heart disease,2018,4,6.0
+1288,25,Female,150.2,44.7,116.0,4.66,No,Midlands,Hypertension,2018,9,2.0
+1289,78,Female,161.9,61.8,165.0,4.04,Yes,North West,Diabetes,2018,10,8.0
+1290,78,Male,183.7,93.4,129.0,,No,South East,Asthma,2022,11,4.0
+1291,75,Female,161.4,74.6,139.0,4.16,Yes,South West,Hypertension,2023,12,4.0
+1292,82,Male,177.5,91.0,163.0,,No,North East,Heart disease,2021,2,2.0
+1293,35,Female,163.4,56.2,127.0,5.12,No,North West,Asthma,2019,2,8.0
+1294,88,Male,166.9,85.9,155.0,5.15,No,Midlands,Hypertension,2022,12,6.0
+1295,41,Female,155.3,56.4,127.0,2.9,No,London,Heart disease,2018,5,6.0
+1296,75,Female,155.0,71.7,146.0,4.26,Yes,London,Heart disease,2022,1,3.0
+1297,59,Female,155.4,65.1,142.0,5.27,Yes,South West,Heart disease,2023,4,1.0
+1298,74,Male,NA,74.3,134.0,5.79,Yes,South East,Diabetes,2022,11,4.0
+1299,63,Male,166.8,71.2,145.0,,No,North East,Heart disease,2023,5,5.0
+1300,64,Male,169.1,81.9,123.0,3.73,No,London,Diabetes,2021,1,5.0
+1006,28,Female,152.1,62.9,127.0,3.73,No,Midlands,Hypertension,2018,12,8.0
+1051,56,Female,165.5,85.5,139.0,4.11,No,North East,Asthma,2019,2,3.0
+1121,84,Male,161.0,78.8,119.0,4.89,No,South East,Diabetes,2023,12,2.0
